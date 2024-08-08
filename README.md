@@ -12,5 +12,5 @@
 
 - 📫 How to reach me **urvashiyadav678@gmail.com**
 
-- 😄 Pronouns **She/Her**
+
 
