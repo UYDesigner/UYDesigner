@@ -9,25 +9,21 @@
 </p>
 
 ---
+### 🚀 What I’m Up To:
+- Diving deep into **Java** & **DSA**
+- Building cool stuff with the **MERN stack**
+- Always hungry to learn & grow 💡
 
-### 🌱 Currently Exploring:
-- Java Development
-- Data Structures & Algorithms
-- Full Stack Web Development (MERN)
-- Creative UI Animations & DevOps Basics
+### 🤝 Let’s Team Up!
+- Got a fun web idea? Let’s build it!
+- Into DSA or Java? I’m in for collab & code jams 👯‍♀️
 
-### 🤝 Open to Collaborate On:
-- Innovative & impactful web apps
-- Java-based backend systems
-- Problem-solving & DSA challenges
+### 💬 Chat With Me About:
+- Clean code, cool projects, or cracking problems 🧩
+- Java • React • MongoDB • Problem Solving
 
-### 💬 Ask Me About:
-- Java | MERN Stack | DSA
-- Backend APIs | Clean UI Design
-- Problem Solving & Competitive Coding
-
-### 📫 Reach Me At:
-- **Email:** [urvashiyadav678@gmail.com](mailto:urvashiyadav678@gmail.com)
+### 📫 Ping Me At:
+📩 [urvashiyadav678@gmail.com](mailto:urvashiyadav678@gmail.com)
 
 ---
 
