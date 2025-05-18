@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Urvashi Yadav</h1>
-<h3 align="center">A Tech Enthusiast | Web Developer | Java & DSA Learner</h3>
+<h3 align="center">A Tech Enthusiast | Full Stack Developer | Java & DSA Explorer</h3>
 
-<!-- Optional animated coding girl gif -->
+<!-- Optional animated gif -->
 <!-- <img align="right" alt="coding" width="400" src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif" /> -->
 
 <p align="left">
@@ -13,43 +13,59 @@
 ### 🌱 Currently Exploring:
 - Java Development
 - Data Structures & Algorithms
-- Full Stack Web Development (MERN Stack)
+- Full Stack Web Development (MERN)
+- Creative UI Animations & DevOps Basics
 
 ### 🤝 Open to Collaborate On:
-- Exciting and meaningful web development projects
-- Java-based development initiatives
-- DSA-focused study groups or challenges
+- Innovative & impactful web apps
+- Java-based backend systems
+- Problem-solving & DSA challenges
 
-### 💬 Let’s Talk About:
-- Java | DSA | MERN Stack
-- Problem Solving & Clean Code
-- Project Building & Learning Resources
+### 💬 Ask Me About:
+- Java | MERN Stack | DSA
+- Backend APIs | Clean UI Design
+- Problem Solving & Competitive Coding
 
 ### 📫 Reach Me At:
 - **Email:** [urvashiyadav678@gmail.com](mailto:urvashiyadav678@gmail.com)
 
 ---
 
-### 🚀 My Tech Stack:
+### 🚀 My Tech Toolbox:
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mysql,mongodb,docker,tailwind,java,c,firebase" alt="Tech Stack" />
+#### 💻 Languages & Fundamentals:
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,java,c" alt="Languages" />
 </p>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=appwrite" alt="Appwrite" />
+#### 🌐 Frontend Development:
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,tailwind,materialui" alt="Frontend Tools" />
+  <img src="https://img.shields.io/badge/Framer%20Motion-black?style=flat&logo=framer&logoColor=white" />
+  <img src="https://img.shields.io/badge/GSAP-88CE02?style=flat&logo=greensock&logoColor=white" />
+</p>
+
+#### 🛠️ Backend & Databases:
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase,docker" alt="Backend & Databases" />
+  <img src="https://img.shields.io/badge/Appwrite-DD0031?style=flat&logo=appwrite&logoColor=white" />
+</p>
+
+#### 🧠 Problem Solving & Competitive Coding:
+<p align="left">
+  <img src="https://img.shields.io/badge/DSA-strong-blue?style=flat" />
+  <img src="https://img.shields.io/badge/Problem%20Solving-critical-success?style=flat" />
+  <img src="https://img.shields.io/badge/Competitive%20Coding-orange?style=flat" />
 </p>
 
 ---
 
-### 🧠 Currently Learning:
-- Advanced Java and Backend Development
-- Docker & DevOps Basics
-- System Design and Scalable Architecture
+### 🌟 Fun Fact:
+> I love building beautiful UIs, solving complex problems, and turning imagination into working code!
 
 ---
 
-<!-- Optional GitHub Stats (can be added if desired) -->
+<!-- Optional GitHub Stats -->
 <!-- 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=uydesigner&show_icons=true&theme=radical" alt="Urvashi's GitHub stats" />
