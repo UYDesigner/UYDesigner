@@ -56,6 +56,4 @@
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Happy+to+connect+%26+create+something+awesome+!+🚀" />
-</p>
+
