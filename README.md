@@ -2,7 +2,7 @@
 
 ➤ Check out my [**Portfolio**](https://github.com/UYDesigner)
 
-➤ MCA Student at JNU | Full-Stack Developer
+➤ 1st year MCA Student at JNU | Full-Stack Developer
 
 ➤ Building full-stack products from idea to deployment
 
